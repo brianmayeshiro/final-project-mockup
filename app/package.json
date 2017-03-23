@@ -1,5 +1,5 @@
 {
-  "name": "final-project-mockup",
+  "name": "manoa-adventures",
   "private": true,
   "scripts": {
     "start": "meteor --no-release-check --settings ../config/settings.development.json",
